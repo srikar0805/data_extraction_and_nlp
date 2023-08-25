@@ -45,3 +45,7 @@ WORD COUNT
 SYLLABLE PER WORD
 PERSONAL PRONOUNS
 AVG WORD LENGTH
+
+
+
+Note: After cloning the repository in order to run the python file you have to install the python libraries mentioned in the python file.
